@@ -1,0 +1,4 @@
+/home/everent/Desktop/les/build/CMakeFiles/edit_cache.dir
+/home/everent/Desktop/les/build/CMakeFiles/rebuild_cache.dir
+/home/everent/Desktop/les/build/CMakeFiles/main.dir
+/home/everent/Desktop/les/build/CMakeFiles/funk.dir

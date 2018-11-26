@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/everent/Desktop/les/funk.h
+
+/home/everent/Desktop/les/main.cpp
+iostream
+-
+funk.h
+/home/everent/Desktop/les/funk.h
+

@@ -1,0 +1,3 @@
+/home/everent/Desktop/Hello/build/CMakeFiles/edit_cache.dir
+/home/everent/Desktop/Hello/build/CMakeFiles/rebuild_cache.dir
+/home/everent/Desktop/Hello/build/CMakeFiles/main.dir
