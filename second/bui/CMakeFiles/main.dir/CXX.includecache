@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/everent/space/CmakeTest/second/funk.h
+
+/home/everent/space/CmakeTest/second/main.cpp
+iostream
+-
+funk.h
+/home/everent/space/CmakeTest/second/funk.h
+

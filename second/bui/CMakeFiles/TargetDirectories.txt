@@ -1,0 +1,4 @@
+/home/everent/space/CmakeTest/second/bui/CMakeFiles/rebuild_cache.dir
+/home/everent/space/CmakeTest/second/bui/CMakeFiles/edit_cache.dir
+/home/everent/space/CmakeTest/second/bui/CMakeFiles/main.dir
+/home/everent/space/CmakeTest/second/bui/CMakeFiles/funk.dir

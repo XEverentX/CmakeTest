@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunk.a  CMakeFiles/funk.dir/funk.cpp.o
+/usr/bin/ranlib libfunk.a

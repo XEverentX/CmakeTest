@@ -1,0 +1,6 @@
+/home/everent/space/CmakeTest/Fourth/build/CMakeFiles/edit_cache.dir
+/home/everent/space/CmakeTest/Fourth/build/CMakeFiles/rebuild_cache.dir
+/home/everent/space/CmakeTest/Fourth/build/CMakeFiles/sol.dir
+/home/everent/space/CmakeTest/Fourth/build/algo/CMakeFiles/edit_cache.dir
+/home/everent/space/CmakeTest/Fourth/build/algo/CMakeFiles/rebuild_cache.dir
+/home/everent/space/CmakeTest/Fourth/build/algo/CMakeFiles/algo.dir
